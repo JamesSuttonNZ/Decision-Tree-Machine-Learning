@@ -9,6 +9,11 @@ import java.util.Scanner;
 
 import part2.Instance;
 
+/**
+ * Decision Tree Machine Learning Algorithm
+ * @author James Sutton
+ *
+ */
 public class DecisionTreeLearning {
 	
 	public static List<String> categories = new ArrayList<String>();
